@@ -1,0 +1,1 @@
+Extract all the images from the archives and group them in folders named red, blue and green and put all three folders in another folder named dataset. 
